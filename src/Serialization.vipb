@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-03 14:23:11" Creator="Tomi Maila" Comments="" ID="65c1bab3b26d840dd4bc6c0c4decf173">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-03 14:25:36" Creator="Tomi Maila" Comments="" ID="55abd69f91031b0a1029478be9ed7a43">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_serialization</Package_File_Name>
-    <Library_Version>1.0.0.14</Library_Version>
+    <Library_Version>1.0.1.15</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager/>
       <URL>http://jki.net/tools</URL>
-      <Release_Notes>Saved for LabVIEW 2009</Release_Notes>
+      <Release_Notes>Updated the palette</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -222,7 +222,7 @@
         <Path>Deserializer\Deserializer\Unflatten From String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>62F143A1462F0DC0D71DFCF4F00572CA</GUID>
+      <GUID>520B733D78F06A89279EE0F3506B4F22</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
