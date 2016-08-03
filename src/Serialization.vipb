@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-07-06 15:44:03" Creator="Tomi Maila" Comments="" ID="217641e647500fad561a879941c97816">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-03 14:23:11" Creator="Tomi Maila" Comments="" ID="65c1bab3b26d840dd4bc6c0c4decf173">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_serialization</Package_File_Name>
     <Library_Version>1.0.0.14</Library_Version>
@@ -208,7 +208,21 @@
         <Path>Serializer\Serializer\Flatten To String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BD2C5FD41ADFFE51A195D62EE1060345</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Unflatten From String.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Deserializer\Deserializer\Unflatten From String.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>62F143A1462F0DC0D71DFCF4F00572CA</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
