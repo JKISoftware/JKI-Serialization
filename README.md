@@ -1,3 +1,5 @@
+[![Image](https://www.vipm.io/package/jki_lib_serialization/badge.svg?metric=installs)](https://www.vipm.io/package/jki_lib_serialization/) [![Image](https://www.vipm.io/package/jki_lib_serialization/badge.svg?metric=stars)](https://www.vipm.io/package/jki_lib_serialization/)
+
 #JKI Serialization
 
 JKI Serialization is a library for flattening LabVIEW data to various formats and for unflattening these formats back to LabVIEW data.
